@@ -21,6 +21,6 @@ cmake-build-*
 .vscode/
 build/
 out/
-
+compile_commands.json
 # MacOS dependecies
 .DS_Store
